@@ -17,16 +17,13 @@ Projetos práticos: projetos para a demonstração das habilidades.
 Mentorias: reuniões com experts e profissionais da área.
 Networking: conexão ativa com outros participantes.
 
-## Projetos e Desafios
-
-### Projetos
-* [Fork em um repositório Open Source](https://www.github.com/andreiolicar)
+## Desafios Práticos
 
 ### Desafios
-* [Sistema de classificação para um herói em um jogo com javascript](https://www.github.com/andreiolicar)
+* [Sistema de classificação para um herói em um jogo com javascript](https://github.com/andreiolicar/bootcamp-dio-gft-js/tree/bb3190632144744f0501288469096677c8ac00d6/desafios/desafio-3)https://br.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310
 
 ## Links Úteis
 
 * [Bootcamp GFT Start #6 - Lógica de Programação](https://www.dio.me/bootcamp/gft-start-logica-de-programacao)
-* [Meu LinkedIn](seu-perfil-no-linkedin)
-* [Meu Perfil DIO](seu-perfil-no-linkedin)
+* [Meu LinkedIn](https://br.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310)
+* [Meu Perfil DIO](https://dio.me/users/andreiolicar7)
