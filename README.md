@@ -20,7 +20,7 @@ Este repositório contém desafios de código e projetos desenvolvidos durante o
 ## Desafios Práticos
 
 ### Desafios
-* [Sistema de classificação para um herói em um jogo com javascript](https://github.com/andreiolicar/bootcamp-dio-gft-js/tree/bb3190632144744f0501288469096677c8ac00d6/desafios/desafio-3)https://br.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310
+* [Sistema de classificação para um herói em um jogo com javascript](https://github.com/andreiolicar/bootcamp-dio-gft-js/tree/bb3190632144744f0501288469096677c8ac00d6/desafios/desafio-3)
 
 ## Links Úteis
 
