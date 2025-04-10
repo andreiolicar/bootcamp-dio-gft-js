@@ -12,10 +12,10 @@ Este repositório contém desafios de código e projetos desenvolvidos durante o
 
 ## Softskills e Formas de Estudo
 
-Desafios de código: testes de habilidades para um aprendizado prático.
-Projetos práticos: projetos para a demonstração das habilidades.
-Mentorias: reuniões com experts e profissionais da área.
-Networking: conexão ativa com outros participantes.
+* Desafios de código: testes de habilidades para um aprendizado prático.
+* Projetos práticos: projetos para a demonstração das habilidades.
+* Mentorias: reuniões com experts e profissionais da área.
+* Networking: conexão ativa com outros participantes.
 
 ## Desafios Práticos
 
